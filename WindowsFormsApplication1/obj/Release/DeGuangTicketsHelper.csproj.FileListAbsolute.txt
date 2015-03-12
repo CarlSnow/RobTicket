@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\12306\WindowsFormsApplication1\bin\Release\DeGuangTicketsHelper.exe
+C:\Users\Administrator\Desktop\12306\WindowsFormsApplication1\bin\Release\DeGuangTicketsHelper.pdb
+C:\Users\Administrator\Desktop\12306\WindowsFormsApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\12306\WindowsFormsApplication1\obj\Release\DeGuangTicketsHelper.frmTicketsHelper.resources
+C:\Users\Administrator\Desktop\12306\WindowsFormsApplication1\obj\Release\DeGuangTicketsHelper.Properties.Resources.resources
+C:\Users\Administrator\Desktop\12306\WindowsFormsApplication1\obj\Release\DeGuangTicketsHelper.TickerWebBrowser.resources
+C:\Users\Administrator\Desktop\12306\WindowsFormsApplication1\obj\Release\DeGuangTicketsHelper.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\12306\WindowsFormsApplication1\obj\Release\DeGuangTicketsHelper.exe
+C:\Users\Administrator\Desktop\12306\WindowsFormsApplication1\obj\Release\DeGuangTicketsHelper.pdb
